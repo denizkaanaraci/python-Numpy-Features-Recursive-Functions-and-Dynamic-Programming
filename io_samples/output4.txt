@@ -1,0 +1,14 @@
+Edit Distance = 7
+T T 0
+G G 0
+A G 1
+T T 0
+C C 0
+A T 1
+C C 0
+A G 1
+- G 2
+T T 0
+- T 2
+G G 0
+
